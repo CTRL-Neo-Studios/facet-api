@@ -1,7 +1,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace FacetAPI.Core
+namespace FacetAPI.Runtime.Core
 {
     public static class FacetExtensions
     {

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace FacetAPI.Core
+namespace FacetAPI.Runtime.Core
 {
     public class FacetCallback<TDelegate> : IFacetCallback<TDelegate> where TDelegate : Delegate
     {

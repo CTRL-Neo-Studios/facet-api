@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="335df3fd-19f7-4105-b335-b2773cd85379" name="Changes" comment="" />
+    <list default="true" id="335df3fd-19f7-4105-b335-b2773cd85379" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Core.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/ActionFacet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/ActionFacet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/ActionFacet.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/ActionFacet.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/FacetAPI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/FacetAPI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/FacetAPI.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/FacetAPI.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/FacetCallback.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/FacetCallback.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/FacetCallback.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/FacetCallback.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/FacetDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/FacetDelegate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/FacetDelegate.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/FacetDelegate.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/FacetExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/FacetExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/FacetExtensions.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/FacetExtensions.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/IFacetCallback.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/IFacetCallback.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/IFacetCallback.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime/Core/IFacetCallback.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacetAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FacetAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Runtime.meta" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Type-32"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Type-32&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CTRL-Neo-Studios/facet-api.git",
-    "accountId": "64032c04-9f59-4d7e-8c63-490792191381"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CTRL-Neo-Studios/facet-api.git&quot;,
+    &quot;accountId&quot;: &quot;64032c04-9f59-4d7e-8c63-490792191381&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Core/ActionFacet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Core/FacetAPI.cs" root0="FORCE_HIGHLIGHTING" />
@@ -29,25 +45,25 @@
     <setting file="file://$PROJECT_DIR$/Core/IFacetCallback.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2wObH4rCykaCgKPn4qKHCHKZO0y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="335df3fd-19f7-4105-b335-b2773cd85379" name="Changes" comment="" />
@@ -56,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681255876745</updated>
       <workItem from="1745915477637" duration="204000" />
+      <workItem from="1745916939077" duration="201000" />
     </task>
     <task id="LOCAL-00001" summary="pkg: unity stuff">
       <option name="closed" value="true" />
@@ -65,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745915650035</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore: wkspc">
+      <option name="closed" value="true" />
+      <created>1745916983660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745916983660</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +101,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="pkg: unity stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="pkg: unity stuff" />
+    <MESSAGE value="chore: wkspc" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: wkspc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

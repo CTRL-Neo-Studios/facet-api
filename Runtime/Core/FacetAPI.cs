@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace FacetAPI.Core
+namespace FacetAPI.Runtime.Core
 {
     public class FacetApi
     {

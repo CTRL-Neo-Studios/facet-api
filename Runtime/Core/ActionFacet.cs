@@ -1,6 +1,6 @@
 using System;
 
-namespace FacetAPI.Core
+namespace FacetAPI.Runtime.Core
 {
     public class ActionFacet<T1> : FacetCallback<Action<T1>>
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace FacetAPI.Core
+namespace FacetAPI.Runtime.Core
 {
     /// <summary>
     /// Interface for all facet callbacks, providing basic functionality.
