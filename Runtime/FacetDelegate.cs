@@ -1,3 +1,4 @@
-namespace FacetAPI;
-
-public delegate void FacetDelegate(params object[] args);
+namespace FacetAPI
+{
+    public delegate void FacetDelegate(params object[] args);
+}

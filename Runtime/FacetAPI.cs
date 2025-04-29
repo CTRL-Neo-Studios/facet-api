@@ -1,32 +1,33 @@
 using System;
 using System.Collections.Generic;
 
-namespace FacetAPI;
-
-public class FacetApi
+namespace FacetAPI
 {
-    private readonly Dictionary<string, IFacetCallback> callbacks = new();
-    
-    public void PauseAll()
+    public class FacetApi
     {
-        foreach (var callback in callbacks.Values)
-            callback.Pause();
-    }
-    
-    public void ResumeAll()
-    {
-        foreach (var callback in callbacks.Values)
-            callback.Resume();
-    }
+        private readonly Dictionary<string, IFacetCallback> callbacks = new();
 
-    public IFacetCallback<TDelegate> CreateCallback<TDelegate>(string name, bool reactive = false) 
-        where TDelegate : Delegate
-    {
-        var callback = new FacetCallback<TDelegate>(reactive);
-        callbacks[name] = callback;
-        return callback;
-    }
+        public void PauseAll()
+        {
+            foreach (var callback in callbacks.Values)
+                callback.Pause();
+        }
 
-    public IFacetCallback<TDelegate> Get<TDelegate>(string name) where TDelegate : Delegate
-        => (IFacetCallback<TDelegate>)callbacks[name];
+        public void ResumeAll()
+        {
+            foreach (var callback in callbacks.Values)
+                callback.Resume();
+        }
+
+        public IFacetCallback<TDelegate> CreateCallback<TDelegate>(string name, bool reactive = false)
+            where TDelegate : Delegate
+        {
+            var callback = new FacetCallback<TDelegate>(reactive);
+            callbacks[name] = callback;
+            return callback;
+        }
+
+        public IFacetCallback<TDelegate> Get<TDelegate>(string name) where TDelegate : Delegate
+            => (IFacetCallback<TDelegate>)callbacks[name];
+    }
 }
