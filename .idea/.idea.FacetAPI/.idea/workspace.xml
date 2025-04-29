@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="335df3fd-19f7-4105-b335-b2773cd85379" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FacetAPI/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FacetAPI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FacetAPI/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacetAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FacetAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/ActionFacet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/ActionFacet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/ActionFacet.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/ActionFacet.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/FacetAPI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetAPI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/FacetAPI.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetAPI.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/FacetCallback.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetCallback.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/FacetCallback.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetCallback.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/FacetDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetDelegate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/FacetDelegate.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetDelegate.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/FacetExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/FacetExtensions.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetExtensions.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/IFacetCallback.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/IFacetCallback.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/IFacetCallback.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/IFacetCallback.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/dev.ctrl-neo.facet-api.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runtime/dev.ctrl-neo.facet-api.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.json" beforeDir="false" afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Type-32"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CTRL-Neo-Studios/facet-api.git",
+    "accountId": "64032c04-9f59-4d7e-8c63-490792191381"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Core/ActionFacet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/FacetAPI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/FacetExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/IFacetCallback.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2wObH4rCykaCgKPn4qKHCHKZO0y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "dev",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="335df3fd-19f7-4105-b335-b2773cd85379" name="Changes" comment="" />
+      <created>1681255876745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681255876745</updated>
+      <workItem from="1745915477637" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

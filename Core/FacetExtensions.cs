@@ -1,4 +1,7 @@
-namespace FacetAPI.Runtime
+using System;
+using System.Threading.Tasks;
+
+namespace FacetAPI.Core
 {
     public static class FacetExtensions
     {
