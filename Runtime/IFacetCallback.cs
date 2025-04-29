@@ -1,6 +1,4 @@
-using System;
-
-namespace FacetAPI
+namespace FacetAPI.Runtime
 {
     /// <summary>
     /// Interface for all facet callbacks, providing basic functionality.
