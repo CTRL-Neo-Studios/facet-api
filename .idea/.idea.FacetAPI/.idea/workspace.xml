@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="335df3fd-19f7-4105-b335-b2773cd85379" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FacetAPI/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FacetAPI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FacetAPI/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacetAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FacetAPI.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/ActionFacet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/ActionFacet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/ActionFacet.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/ActionFacet.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/FacetAPI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetAPI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/FacetAPI.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetAPI.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/FacetCallback.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetCallback.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/FacetCallback.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetCallback.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/FacetDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetDelegate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/FacetDelegate.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetDelegate.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/FacetExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/FacetExtensions.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/FacetExtensions.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/IFacetCallback.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/IFacetCallback.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/IFacetCallback.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Core/IFacetCallback.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/dev.ctrl-neo.facet-api.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runtime/dev.ctrl-neo.facet-api.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/global.json" beforeDir="false" afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
-    </list>
+    <list default="true" id="335df3fd-19f7-4105-b335-b2773cd85379" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/Core/FacetExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Core/IFacetCallback.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -73,16 +55,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681255876745</updated>
-      <workItem from="1745915477637" duration="59000" />
+      <workItem from="1745915477637" duration="204000" />
     </task>
+    <task id="LOCAL-00001" summary="pkg: unity stuff">
+      <option name="closed" value="true" />
+      <created>1745915650035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745915650035</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="pkg: unity stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="pkg: unity stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
