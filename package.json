@@ -1,0 +1,9 @@
+{
+  "name": "dev.ctrl-neo.facet-api",
+  "version": "1.0.0",
+  "description": "A unified class for managing callbacks and cutting down references to MonoBehaviours.",
+  "author": "CTRl Neo Studios",
+  "license": "MIT",
+  "displayName": "Facet API",
+  "unity": "2021.3"
+}
