@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335df3fd-19f7-4105-b335-b2773cd85379" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/llm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/llm.md.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FacetAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FacetAPI/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="335df3fd-19f7-4105-b335-b2773cd85379" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +66,7 @@
       <workItem from="1745916939077" duration="242000" />
       <workItem from="1745917535927" duration="378000" />
       <workItem from="1745917939532" duration="18000" />
-      <workItem from="1745991746750" duration="44000" />
+      <workItem from="1745991746750" duration="114000" />
     </task>
     <task id="LOCAL-00001" summary="pkg: unity stuff">
       <option name="closed" value="true" />
@@ -104,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745917950738</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: llm.md for plug and play to generate FacetAPI code with LLMs">
+      <option name="closed" value="true" />
+      <created>1745991841413</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745991841413</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +122,8 @@
     <MESSAGE value="chore: wkspc" />
     <MESSAGE value="pkg: runtime" />
     <MESSAGE value="pkg: asmdef" />
-    <option name="LAST_COMMIT_MESSAGE" value="pkg: asmdef" />
+    <MESSAGE value="feat: llm.md for plug and play to generate FacetAPI code with LLMs" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: llm.md for plug and play to generate FacetAPI code with LLMs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
